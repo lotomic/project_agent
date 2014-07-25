@@ -1,0 +1,30 @@
+
+    <spade>
+
+               <platform>
+                       <hostname>127.0.0.1</hostname>
+                       <port>5222</port>
+                       <adminpasswd>secret</adminpasswd>
+               </platform>
+
+               <acc>
+                      <hostname>acc.127.0.0.1</hostname>
+                      <password>zeXHoNYw</password>
+                      <port>5222</port>
+        
+           </acc>
+
+               <ams>
+                      <hostname>ams.127.0.0.1</hostname>
+                      <password>vRisytIR</password>
+                      <port>5222</port>
+               </ams>
+
+               <df>
+                      <hostname>df.127.0.0.1</hostname>
+                      <password>EWwfMiaq</password>
+                      <port>5222</port>
+               </df>
+           
+        </spade>
+    

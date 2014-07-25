@@ -1,0 +1,28 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Finnsson(2007)}]{FinnsonH2007}
+Finnsson, H., 2007.
+\newblock \emph{CADIA-Player: A General Game Playing Agent.}
+\newblock M.sc. diss., Reykjavik University - School of computer Science, Iceland.
+
+
+\bibitem[{Namee(2004)}]{NameeB2004}
+Mac Namee, B., 2004.
+\newblock \emph{Proactive Persistent Agents: Using Situational Inteligence to Create Support characters in Character Centric Computer Games.}
+\newblock Ph.D. thesis, Universitiy of Dublin, Trinity College, Ireland.
+
+\bibitem[{Schatten(2011)}]{Schatten2011}
+Schatten, M., 2011.
+\newblock \emph{Višeagentni sustavi - FOI wiki}.
+\newblock Fakultet organizacije i informatike, Varaždin.
+
+\bibitem[{Schermer(2007)}]{SchermerB2007}
+Schermer, B. W., 2007.
+\newblock \emph{Software agents, surveillance and the right to privacy: a legislative framework for agent-enabled surveillance}.
+\newblock Leiden University Press, Amsterdam, Netherlands.
+
+
+
+
+\end{thebibliography}
